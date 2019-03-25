@@ -1,3 +1,3 @@
 # Presentations
 
-[Dallas RUG](presentations/r-community.pdf)
+[Finding the YOU in the R Community - Dallas RUG](presentations/r-community_pdf.pdf)
